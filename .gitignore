@@ -179,3 +179,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Large data/model artifacts (not part of code submission)
+cuad_project/data/
+cuad_project/models/
+cuad_project/results/
